@@ -1,0 +1,7 @@
+C:\Users\meesut\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldFromConsoleApp\bin\Debug\HelloWorldFromConsoleApp.exe.config
+C:\Users\meesut\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldFromConsoleApp\bin\Debug\HelloWorldFromConsoleApp.exe
+C:\Users\meesut\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldFromConsoleApp\bin\Debug\HelloWorldFromConsoleApp.pdb
+C:\Users\meesut\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldFromConsoleApp\obj\Debug\HelloWorldFromConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\meesut\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldFromConsoleApp\obj\Debug\HelloWorldFromConsoleApp.exe
+C:\Users\meesut\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldFromConsoleApp\obj\Debug\HelloWorldFromConsoleApp.pdb
+C:\Users\meesut\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldFromConsoleApp\obj\Debug\HelloWorldFromConsoleApp.csprojResolveAssemblyReference.cache
